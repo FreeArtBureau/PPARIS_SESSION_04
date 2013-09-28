@@ -1,0 +1,12 @@
+﻿
+combiner les 2 anims fournies pour créer un slitscan.
+représenter le temps comme un volume et créer des interactions amusantes.
+
+
+des exemples et du source code ici:
+
+http://www.flong.com/texts/lists/slit_scan/
+
+une présentation qui donne des idées
+
+http://fr.slideshare.net/alvarocassinelli/time-delayed-cinema

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"  viewHeight= "29" viewWidth= "11">
+	<Library>
+	</Library>
+
+	<Group d:userLabel="Calque_1" d:type="layer">
+		<Path winding="evenOdd" data="M 11 0 L 11 8 L 8 11 L 5 9 L 1 10 L 4 12 L 0 14 L 8 18 L 11 19 L 11 21 L 11 22 L 11 24 L 7 22 L 2 25 L 11 25 L 11 30" blendMode="normal" alpha="1">
+		</Path>
+	</Group>
+</Graphic>
